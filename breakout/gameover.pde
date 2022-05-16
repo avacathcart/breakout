@@ -3,7 +3,7 @@ void gameover() {
 gameover.play();
   background(0);
       textSize(75);
-  if (score == 3){
+  if (score == 78){
   background(255);
   fill(#E6F6FF);
   noStroke();

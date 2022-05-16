@@ -117,7 +117,7 @@ if (y[i] == 350) fill(purple);
     coin.rewind();
   coin.play();
 } 
-if (score == 3) {
+if (score == 78) {
   mode = GAMEOVER;
     }
  if (lives == 0) {
